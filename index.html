@@ -622,6 +622,20 @@
     </button>
 
     <!-- Loading page -->
+    <div class="loading-page bg-black" id="loading" style="opacity: 1;display: none;">
+        <div class="d-flex justify-content-center align-items-center" style="height: 100vh !important;">
+            <div class="w-75 text-center">
+                <img class="img-fluid mb-3" src="./assets/images/icon-192x192.png" alt="icon" style="width: 3.5rem;">
+                <div class="progress" role="progressbar" style="height: 0.5rem;">
+                    <div class="progress-bar" id="progress-bar" style="width: 0%"></div>
+                </div>
+                <small class="mt-1 text-light" id="progress-info" style="display: none;">Thư đang tới 😘</small>
+                <noscript>
+                    <small class="mt-1 text-danger">có lỗi g ì g ò i</small>
+                </noscript>
+            </div>
+        </div>
+    </div>
 
     <!-- Modal Image Large -->
     <div class="modal fade" id="modal-image" tabindex="-1" aria-hidden="true">
