@@ -7,7 +7,7 @@ export const progress = (() => {
     const bar = document.getElementById('progress-bar');
 
     const total = assets.length;
-    let loaded = 0;
+    let loaded = 80;
 
     const progress = () => {
         loaded += 1;
