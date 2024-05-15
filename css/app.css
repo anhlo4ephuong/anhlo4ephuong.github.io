@@ -9,13 +9,14 @@ body {
 }
 
 @font-face {
-    font-family: 'SVN-Magellin';
-    src: url('fonts/SVN-Magellin.otf') format('opentype');
+    font-family: 'Sacramento';
+    src: url('../fonts/Sacramento.ttf') format('truetype');
 }
 
 .font-esthetic {
-    font-family: 'SVN-Magellin', cursive !important;
+    font-family: 'Sacramento', cursive !important;
 }
+
 .font-arabic {
     font-family: 'Noto Naskh Arabic', serif !important;
 }
