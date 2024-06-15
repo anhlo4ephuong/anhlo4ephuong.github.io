@@ -1,0 +1,15 @@
+Assignment: Thực Hành với Big Data trên Cloudera
+Mục tiêu
+Mục tiêu của bài tập này là để sinh viên áp dụng các kỹ năng và kiến thức về Hadoop và các công cụ liên quan trong một môi trường ảo hóa được cung cấp bởi Cloudera.
+
+Yêu cầu 1: Làm quen với Cloudera QuickStart VM
+Mục tiêu
+Hiểu cách sử dụng Cloudera QuickStart VM và thực hiện các thao tác cơ bản trên Hadoop thông qua giao diện người dùng của Cloudera.
+
+Đầu vào
+Máy tính cá nhân có cài đặt VMware Player hoặc VirtualBox.
+Tải và cài đặt Cloudera QuickStart VM từ trang web chính thức của Cloudera.
+Yêu cầu
+Khởi động Cloudera QuickStart VM và làm quen với giao diện.
+Sử dụng Cloudera Manager để xem trạng thái của các dịch vụ Hadoop.
+Mở terminal và kiểm tra phiên bản của Hadoop được cài đặt.
